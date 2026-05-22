@@ -1,2 +1,2 @@
-def add_dunc(a,b):
-    return a+b
+def add_dunc(a, b):
+    return a + b
